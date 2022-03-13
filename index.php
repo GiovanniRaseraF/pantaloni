@@ -1,0 +1,13 @@
+<?php 
+?>
+<h1>I cetacei e I koala</h1>
+<h2>Simili ma diversi</h2>
+<p>Nessuno dei 2 si ciba di gelati troppo dolci, 
+tendenza a bucare pantaloni</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js" integrity="sha512-4P0ZJ49OMXe3jXT+EsEaq82eNwFeyYL81LeHGzGcEhowFbTqeQ80q+NEkgsE8tHPs6aCqvi7U+XWliAjDmT5Lg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    // Qui Scrivi il codice dinamico
+    // Ad esempio in questo momento sto usando un libreria grafica
+    // così puoi disegnare cose interessanti sullo schermo 
+
+    
+</script>
